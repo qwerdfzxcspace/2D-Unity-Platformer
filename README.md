@@ -15,6 +15,8 @@
 * 🕒 [LevelChanger.cs](Scripts/Environment/LevelChanger.cs) — смена уровней при триггере объекта.
 </details>
 
+🎬 **[Демонстрации геймплея на YouTube](https://www.youtube.com/watch?v=KE2z8yknT1g)**
+
 # Контакты:
 
 tg - @backstabme  
