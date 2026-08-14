@@ -14,3 +14,8 @@
 * 🎵 [CameraMovement.cs](Scripts/Movement/CameraMovement.cs) — скрипт передвижения камеры за персонажем.
 * 🕒 [LevelChanger.cs](Scripts/Environment/LevelChanger.cs) — смена уровней при триггере объекта.
 </details>
+
+# Контакты:
+
+tg - @backstabme  
+discord - qwerdfzxcspace
